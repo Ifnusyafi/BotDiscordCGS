@@ -6,7 +6,7 @@ import os
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
 
-Channel_Trap = 1542052309134221343
+Channel_Trap = 1111111111111111111 # GANTI MENJADI ID CHANNEL YANG MAU DI PAKAI UNTUK TRAP
 
 intents = discord.Intents.default()
 intents.message_content = True
